@@ -1,0 +1,6 @@
+{
+    "version": "1.1.0",
+    "name": "com.mirasense.scanditsdk.plugin",
+    "cordova_name": "ScanditBarcodeScanner",
+    "engines": []
+}
